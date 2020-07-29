@@ -79,7 +79,7 @@ python status-psutil.py
 
 前端已支持Darkmode，点击页面右下角小图标即可切换Darkmode（样式可能不尽如人意，各位有更好的样式或实现方法欢迎提交PR）
 
-如何关闭Darkmode（按钮都不想要）：注释掉index.html第99行即可
+默认不开启Darkmode，如何开启：去掉index.html第99行注释即可
 
 ## 效果演示
 
